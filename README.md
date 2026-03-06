@@ -13,7 +13,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🇮🇳 Based in **India**
 - 👔 **Team Manager @ AuraLinqPr**
 - 🎓 Vice Chair | **IEEE UNS Institute of Technology, VBSPU**
 - 💼 **Frontend Developer @ Classworks.in**
