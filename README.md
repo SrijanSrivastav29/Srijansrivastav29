@@ -63,21 +63,6 @@
 - 🤝 Organizing tech events, workshops & seminars
 - 🌍 Bridging the gap between academia and industry
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijan-srivastav&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijan-srivastav&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijan-srivastav&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💼 Open To
 
 ✅ **Social Media Management** opportunities  
